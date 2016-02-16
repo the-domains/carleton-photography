@@ -1,0 +1,28 @@
+name: Carleton Photography
+favicon: null
+layout_spectrum: 0.28545711701735854
+typography_spectrum: 0.1451087889727205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#e4e7ee'
+    - '#435a86'
+    - '#b7bdcb'
+    - '#000000'
+    - '#808082'
+  brandStrength: 0.41560439579188824
+  lightness: 0.36572564602829516
+  saturation: 0.9659830327145755
+  rhythmicContrast: 0.32477888301946223
+purpose: []
